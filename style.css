@@ -1,0 +1,112 @@
+header{ width: 1100px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 550px auto;
+    /* background-color: aquamarine; */
+}
+header nav {
+margin: auto;
+padding-left: 300px;
+}
+h1{
+   font-family:Impact, fantasy;
+   font-size: 28px;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(197, 207, 218);
+}
+/* h3{
+    font-family: serif;
+    font-weight: 600px;
+} */
+body{
+    width: 1100px;
+    margin: auto;
+}
+.Sec1 img{
+    float: right;
+}
+.mainImg{
+    width: 100%;
+}
+.list{
+    position: relative;
+    width: 100%;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.ul1{
+    color: saddlebrown;
+    font-family:Sans MS, Comic Sans, cursive;
+    font-size: 24px;
+    list-style-type: square;
+    position: absolute;
+    bottom:100px;
+    left: 70px;
+    
+}
+.ul2{
+
+    color: saddlebrown;
+    font-family:Sans MS, Comic Sans, cursive;
+    font-size: 24px;
+    list-style-type: square;
+    position: absolute;
+    bottom:100px;
+    left: 550px;
+}
+div {
+    margin: auto;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 550px auto;
+    position: relative;
+    text-align: center;
+}
+.line{
+    text-decoration: line-through;
+}
+footer{
+    color: darkgray;
+    font-family: Times, Times New Roman, serif;
+    width: 1100px;
+    margin: auto;
+    /* background-color: aquamarine; */
+    align-content: center;
+    text-align: center;
+}
+hr.solid {
+    border-top: 5px solid #bbb;
+  }
+  .minilogo{
+      display: block;
+      margin: auto;}
+
+      .vanessa{
+          display: block;
+          float: left;
+          margin-right: 50px;
+      }
+
+      .button{
+
+        background-color:rgb(163, 53, 53);
+        color: white;
+        padding:15px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        float: right;
+        margin-bottom: 700px;
+        transition-duration: 350ms;
+       /* margin-bottom: 30px; */
+       /* margin-top: 30px; */
+      }
+      .lastP{
+          display: inline-block;
+      }
